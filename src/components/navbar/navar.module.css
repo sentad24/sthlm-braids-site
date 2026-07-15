@@ -1,0 +1,96 @@
+/* :root{
+    --chinese-violet: hsla(302, 19%, 40%, 1);
+    --white-smoke: hsla(0, 0%, 96%, 1);
+    --jasmine: hsla(43, 100%, 77%, 1);
+    --sunset: hsla(34, 100%, 80%, 1);
+    --peach: hsla(28, 100%, 82%, 1);
+    --battleship-gray: hsla(0, 0%, 55%, 1);
+    --eerie-black: hsla(0, 0%, 11%, 1);
+    --french-mauve: hsla(302, 47%, 68%, 1);
+    --cream: hsla(71, 100%, 90%, 1);
+    --timberwolf: hsla(30, 12%, 84%, 1);
+  
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(245, 222, 179, 0);
+    width: 100vw;
+    height: clamp(56px, 8vh, 80px);
+    transition: all 0.3s ease;
+    height: 10vh;
+    background-color: rgba(250, 235, 215, 0);
+    
+    
+}
+.shrink {
+    background:var(--background-color);
+    /* border-radius: 16px; 
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    width: 100vw;
+    display: flex;
+    justify-items:center ;
+    align-items: center;
+     border-radius: 10rem; 
+    
+}
+.shrink .navLink {
+    color: var(--softLavender);
+    display: block;
+}
+.containerLogoSthlmbraid{
+    background-color: rgba(123, 255, 0, 0);
+}
+.logosthlmbraids{
+    height: 150px; width: 150px;
+    padding-left: clamp(0.5rem, 2vw, 2rem); 
+    padding-right: clamp(0.5rem, 2vw, 2rem); 
+     
+}
+.display .logosthlmbraidsDrak{
+    display: contents;
+}
+.logosthlmbraidsDrak{
+   
+    height: 150px; width: 150px;
+}
+.navLinks, .navLink{
+    color: var(--softLavender);
+    font-family: 'Melodrama', sans-serif;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 5rem;
+    text-decoration: none;
+    
+    font-size: clamp(14px, 2vw, 20px);
+    padding: clamp(0.5rem, 1vw, 0.75rem) clamp(1rem, 2vw, 1.5rem);
+}
+.bookBtn{
+    padding: clamp(0.5rem, 1vw, 0.75rem) clamp(1rem, 2vw, 1.5rem);
+    font-size: clamp(14px, 2vw, 16px);
+    border-radius: clamp(0.5rem, 1vw, 1rem);
+    width: clamp(100px, 20vw, 150px);
+    height: clamp(40px, 5vh, 70px);
+    border: none;
+    font-family: 'Melodrama';
+    font-weight: 900;
+    color: #000000;
+    background-color: var(--softLavender);
+
+   
+} */

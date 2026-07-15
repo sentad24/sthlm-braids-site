@@ -1,0 +1,13 @@
+.container{
+    width: 100vw;
+    background-color:var(--background-color);
+}
+.booking {
+    color: #f7f3ef;
+    padding: 60px;
+}
+  
+.calendar {
+   margin-top: 5rem;
+   height: auto;
+}
